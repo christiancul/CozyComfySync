@@ -33,17 +33,17 @@
     },
     {
       "name": "Building Wands",
-      "filename": "BuildingWands-mc1.20.1-2.6.9-release.jar".
+      "filename": "BuildingWands-mc1.20.1-2.6.9-release.jar",
       "url": "https://cdn.modrinth.com/data/XkisZUfp/versions/PpaL5EI3/BuildingWands-mc1.20.1-2.6.9-release.jar"
     },
     {
-      "name": "Magnum Torch"
-      "filename": "MagnumTorch-v8.0.2-1.20.1-Forge.jar"
+      "name": "Magnum Torch",
+      "filename": "MagnumTorch-v8.0.2-1.20.1-Forge.jar",
       "url": "https://cdn.modrinth.com/data/jorDmSKv/versions/LrsjuUiA/MagnumTorch-v8.0.2-1.20.1-Forge.jar"
     },
     {
-      "name": "Absolutely Unbreakable"
-      "filename": "AbsolutelyUnbreakable-2.0.1-1.20.1.jar"
+      "name": "Absolutely Unbreakable",
+      "filename": "AbsolutelyUnbreakable-2.0.1-1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/kPSbQBOY/versions/csl9uMoK/AbsolutelyUnbreakable-2.0.1-1.20.1.jar"
     }
   ],
