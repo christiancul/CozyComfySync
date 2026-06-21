@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "add": [
+    {
+      "name": "Immersive Paintings",
+      "filename": "immersive_paintings-0.6.13+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DYpJU8lA/immersive_paintings-0.6.13+1.20.1-forge.jar"
+    },
+    {
+      "name": "Vein Mining",
+      "filename": "veinmining-forge-1.5.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/bRAPbNyF/versions/qV4B4EMI/veinmining-forge-1.5.0+1.20.1.jar"
+    },
+    {
+      "name": "Inventory Pets",
+      "filename": "inventorypets-1.20.1-2.2.8.jar",
+      "url": "https://cdn.modrinth.com/data/hrbIt8wl/versions/1UnFxYFm/inventorypets-1.20.1-2.2.8.jar"
+    },
+    {
+      "name": "Easy Villagers",
+      "filename": "easy-villagers-forge-1.20.1-1.1.39.jar",
+      "url": "https://cdn.modrinth.com/data/Kaov2qgi/versions/mmqcSSvf/easy-villagers-forge-1.20.1-1.1.39.jar"
+    },
+    {
+      "name": "Connectivity",
+      "filename": "connectivity-1.20.1-7.6.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/470193/files/7366161/download"
+    },
+    {
+      "name": "Angel Rings Reimagined",
+      "filename": "angelrings-1.20.1-1.9.9.jar",
+      "url": "https://www.curseforge.com/api/v1/mods/1395403/files/7324600/download"
+    }
+  ],
+  "remove": [
+    {
+      "filename": "immersive_weathering-1.20.1-2.0.5-forge.jar",
+      "sha1": "d89ad3793ffb97df27f415ac6cc07c61460dd9f3"
+    }
+  ]
+}
