@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "add": [
     {
       "name": "Immersive Paintings",
@@ -45,7 +45,7 @@
       "name": "Absolutely Unbreakable"
       "filename": "AbsolutelyUnbreakable-2.0.1-1.20.1.jar"
       "url": "https://cdn.modrinth.com/data/kPSbQBOY/versions/csl9uMoK/AbsolutelyUnbreakable-2.0.1-1.20.1.jar"
-    },
+    }
   ],
   "remove": [
     {
