@@ -53,14 +53,18 @@
     },
     {
       "name": "Sophisticated Storage",
-      "filename":"sophisticatedstorage-1.20.1-1.4.61.1882.jar",
-      "url":"https://cdn.modrinth.com/data/hMlaZH8f/versions/XUZmFyfz/sophisticatedstorage-1.20.1-1.4.61.1882.jar"
+      "filename":"sophisticatedstorage-1.20.1-1.4.19.1416",
+      "url":"https://cdn.modrinth.com/data/hMlaZH8f/versions/317I3aeT/sophisticatedstorage-1.20.1-1.4.19.1416.jar"
     }
   ],
   "remove": [
     {
       "filename": "immersive_weathering-1.20.1-2.0.5-forge.jar",
       "sha1": "d89ad3793ffb97df27f415ac6cc07c61460dd9f3"
+    },
+    {
+      "filename":"sophisticatedstorage-1.20.1-1.4.61.1882.jar",
+      "sha1": "cf5a6ed20c20b240a91404237ac517bedbee9134"
     }
   ]
 }
