@@ -1,5 +1,5 @@
 {
-  "version": 2026.7.1.1,
+  "version": 5,
   "add": [
     {
       "name": "Immersive Paintings",
@@ -57,9 +57,14 @@
       "url":"https://cdn.modrinth.com/data/hMlaZH8f/versions/317I3aeT/sophisticatedstorage-1.20.1-1.4.19.1416.jar"
     },
     {
-      "name": "Measurements Forge",
+      "name": "Measurements",
       "filename":"Measurements-forge-1.20.1-2.0.1.jar",
       "url":"https://cdn.modrinth.com/data/wLINU2AB/versions/zvV0pT1y/Measurements-forge-1.20.1-2.0.1.jar"
+    },
+    {
+      "name": "Light Overlay",
+      "filename":"light-overlay-8.0.0-forge.jar",
+      "url":"https://www.curseforge.com/api/v1/mods/325492/files/4573178/download"
     }
   ],
   "remove": [
