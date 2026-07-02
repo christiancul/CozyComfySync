@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2026.7.1.1,
   "add": [
     {
       "name": "Immersive Paintings",
@@ -55,6 +55,11 @@
       "name": "Sophisticated Storage",
       "filename":"sophisticatedstorage-1.20.1-1.4.19.1416.jar",
       "url":"https://cdn.modrinth.com/data/hMlaZH8f/versions/317I3aeT/sophisticatedstorage-1.20.1-1.4.19.1416.jar"
+    },
+    {
+      "name": "Measurements Forge",
+      "filename":"Measurements-forge-1.20.1-2.0.1.jar",
+      "url":"https://cdn.modrinth.com/data/wLINU2AB/versions/zvV0pT1y/Measurements-forge-1.20.1-2.0.1.jar"
     }
   ],
   "remove": [
